@@ -1,0 +1,62 @@
+.clockdate-wrapper {
+    width:100%;
+    text-align:center;
+    position: fixed;
+}
+
+#line {
+  display:inline-block;
+    -webkit-transform:scale(1,1.8); /* Safari and Chrome */
+    transform:scale(1,1.8); /* W3C */
+  font-family: 'Roboto', sans-serif;
+  font-size:120px;
+  color: rgb(0, 0, 0);
+  opacity: 0.60;
+  left: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  margin-top: 16%;
+  top: 50%;
+  width: 100%;
+}
+
+#time{
+    font-family: 'Roboto', sans-serif;
+    font-size:120px;
+    color: #000000;
+    left: 0;
+    line-height: 200px;
+    position: absolute;
+    text-align: center;
+    margin-top: 15%;
+    top: 50%;
+    width: 100%;
+}
+
+#dailyText{
+    font-family: 'Roboto', sans-serif;
+    font-size:50px;
+    color: #000000;
+    left: 0;
+    line-height: 200px;
+    position: absolute;
+    text-align: center;
+    margin-top: 35%;
+    top: 50%;
+    width: 100%;
+}
+
+#date {
+    font-family: 'Roboto:500', sans-serif;
+    font-size:20px;
+    color: rgb(0, 0, 0);
+    opacity: 0.60;
+    left: 10px;
+    line-height: 200px;
+    position: absolute;
+    text-align: center;
+    margin-top: 19.5%;
+    top: 50%;
+    width: 100%;
+}
