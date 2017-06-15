@@ -35,15 +35,15 @@ function checkTime(i) {
 
 function getText(j) {
   if (j >= 6 && j < 12) {
-    document.getElementById('dailyText').innerHTML = "Good morning, Jesper.";
+    document.getElementById('dailyText').innerHTML = "Good morning, --Name--.";
   }
   if (j >= 12 && j <= 18) {
-    document.getElementById('dailyText').innerHTML = "Good afternoon, Jesper.";
+    document.getElementById('dailyText').innerHTML = "Good afternoon, --Name--.";
   }
   if (j > 18 && j <= 23) {
-    document.getElementById('dailyText').innerHTML = "Good evening, Jesper.";
+    document.getElementById('dailyText').innerHTML = "Good evening, --Name--.";
   }
   if (j >= 0 && j < 6) {
-    document.getElementById('dailyText').innerHTML = "Good night, Jesper.";
+    document.getElementById('dailyText').innerHTML = "Good night, --Name--.";
   }
 }
