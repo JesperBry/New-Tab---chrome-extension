@@ -1,5 +1,5 @@
 # Chrome New Tab
-
+  This is a Chrome browser extension that overrides the default new tab.
 
 ## Installation:
   - Go to the extensions page in Chrome: chrome://extensions
