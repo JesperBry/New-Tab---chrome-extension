@@ -6,6 +6,7 @@
  ## Built With:
   - [simpleWeather](http://simpleweatherjs.com/) - jQuery plugin to display current weather data for any location.
   - [Unsplash API](https://unsplash.com/developers) - High-resolution photos.
+  - [YUI Compressor](http://yui.github.io/yuicompressor/)
   - [jQuery](https://jquery.com/)
   - [Google fonts](https://fonts.google.com/)
   - [Weather Icon Font](http://www.artill.de/weather-icon-font/)
