@@ -1,0 +1,17 @@
+
+{
+  "name": "Simple-tab",
+  "description": "Replace default new tab page in Chrome with a useful and simple new tab page.",
+  "version": "2.1.0",
+  "manifest_version": 1,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "chrome_url_overrides" : {
+    "newtab": "Index.html"
+  },
+  "permissions" : [
+    "geolocation",
+    "bookmarks"
+  ]
+}
