@@ -1,0 +1,55 @@
+
+.dropbtn {
+    font-family: 'Roboto:500', sans-serif;
+    font-weight: bold;
+    color: Black;
+    opacity: 0.60;
+    padding: 16px;
+    font-size: 12px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: absolute;
+    display: inline-block;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+hr {
+    opacity: 0.60;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.dropdown-content {
+    border-radius: 4px;
+    display: none;
+    position: absolute;
+    background-color: #000000;
+    opacity: 0.60;
+    min-width: 160px;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    font-family: 'Roboto', sans-serif;
+    color: #cecece;
+    padding: 9px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    color: #ffffff;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    color: #000000;
+}
