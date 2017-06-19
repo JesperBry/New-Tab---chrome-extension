@@ -11,14 +11,14 @@
   font-family: 'Roboto', sans-serif;
   color: #000000;
   font-size: 25px;
+  margin-top: -5px;
 }
 
 #weather ul {
   font-family: 'Roboto:500', sans-serif;
   color: #000000;
   font-size: 12px;
-  padding: 0px;
-  margin: 0px;
+  margin-top: -25px;
 }
 
 
@@ -40,7 +40,6 @@ i {
   font-size: 50px;
   font-weight: normal;
   font-style: normal;
-  line-height: 1.0;
 }
 
 .icon-0:before { content: ":"; }
