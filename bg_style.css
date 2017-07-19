@@ -9,7 +9,8 @@ html, body {
 
 body {
   z-index: -1;
-  background: url('https://source.unsplash.com/random/1920x1080') fixed no-repeat;
+  /*  background: url('https://source.unsplash.com/random/1920x1080') fixed no-repeat; */
+  background: url('https://source.unsplash.com/category/nature') fixed no-repeat;
   background-size: cover;
   overflow: hidden;
 }
