@@ -30,6 +30,7 @@ body {
   background: inherit;
   box-shadow: inset 0px 3000px 3000px rgba(255, 255, 255, 0.5);
   filter: blur(25px);
+  transform: scale(1.05);
   margin: -200px;
   overflow: hidden;
 }
