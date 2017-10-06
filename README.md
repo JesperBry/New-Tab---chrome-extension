@@ -19,4 +19,4 @@
 
 ## License
 
- "Simple tab" is licensed under the [MIT][http://opensource.org/licenses/MIT] license.
+ "Simple tab" is licensed under the [MIT](http://opensource.org/licenses/MIT) license.
