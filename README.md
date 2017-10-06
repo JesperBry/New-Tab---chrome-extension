@@ -16,3 +16,7 @@
   - Enable the "Developer mode" checkbox in the top right
   - Click "Load unpacked extension..."
   - Navigate to your project directory, *New-Tab chrome extension*, and click "Select"
+
+## License
+
+ "Simple tab" is licensed under the [MIT][http://opensource.org/licenses/MIT] license.
